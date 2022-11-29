@@ -1,0 +1,23 @@
+API:https://api.coindesk.com/v1/bpi/currentprice.json
+
+OUTPUT OF THE API:
+{"time":{"updated":"Nov 29, 2022 06:02:00 UTC","updatedISO":"2022-11-29T06:02:00+00:00","updateduk":"Nov 29, 2022 at 06:02 GMT"},"disclaimer":"This data was produced from the CoinDesk Bitcoin Price Index (USD). Non-USD currency data converted using hourly conversion rate from openexchangerates.org","chartName":"Bitcoin","bpi":{"USD":{"code":"USD","symbol":"&#36;","rate":"16,482.8003","description":"United States Dollar","rate_float":16482.8003},"GBP":{"code":"GBP","symbol":"&pound;","rate":"13,772.8961","description":"British Pound Sterling","rate_float":13772.8961},"EUR":{"code":"EUR","symbol":"&euro;","rate":"16,056.6540","description":"Euro","rate_float":16056.654}}}
+
+ERROR:
+crateed two class for error 1)class ErrorHandler
+
+CLASS:
+1)Test
+2)GetRequest
+3)Search
+4)ErrorHandler 
+
+I have used SOLID Principle to reduce my code and make it more clear 
+for each question i have creadted a case .The first case is for consume and 
+write response this all you will find it in class "GetRequest". The other case is for searching the word in the file that i have been craeted
+ called "Search ".
+
+
+
+                            
+
