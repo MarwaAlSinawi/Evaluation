@@ -14,7 +14,7 @@ CLASS:
 
 I have used SOLID Principle to reduce my code and make it more clear 
 for each question i have creadted a case .The first case is for consume and 
-write response this all you will find it in class "GetRequest". The other case is for searching the word in the file that i have been craeted
+write response this all you will find it in class "GetRequest". The other case is for searching the multi words in the file that i have been craeted class 
  called "Search ".
 
 
